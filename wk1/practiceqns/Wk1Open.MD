@@ -159,7 +159,7 @@ Please enter your choice (C for Celsius to Fahrenheit, F for Fahrenheit to Celsi
 
 #
 
-#### Question 6
+#### Question 5
 
 -   You are tasked to build a grade analysis system for a class.
 -   The system should allow entering grades for students.
